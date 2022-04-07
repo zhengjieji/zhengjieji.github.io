@@ -40,6 +40,7 @@ body {
     text-align: justify;
     vertical-align: top;
     width: 800px;
+	float: left;
 }
 
 #layout-menu a {
