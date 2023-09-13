@@ -10,10 +10,8 @@ body {
 	background: white;
 	font-family: Georgia, serif;
 	padding-bottom: 8px;
-	margin: auto;
-	display: flex;
-    justify-content: center;
-    align-items: center;
+	margin: 0 auto;
+    max-width: 978px;
 }
 
 #layout-menu {
@@ -40,10 +38,8 @@ body {
 	padding-right: 1.0em;
     border: none;
     background: white;
-    text-align: justify;
+    text-align: left;
     vertical-align: top;
-    width: 800px;
-	float: left;
 }
 
 #layout-menu a {
