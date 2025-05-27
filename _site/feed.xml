@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2025-05-27T18:12:45+00:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">Zhengjie Ji</title><subtitle>Ph.D. Student</subtitle><author><name>Zhengjie Ji</name><email>zhengjie@vt.edu</email></author><entry><title type="html">Introducing Boris: Technical Editor-in-Chief</title><link href="http://0.0.0.0:4000/posts/2025/05/boris" rel="alternate" type="text/html" title="Introducing Boris: Technical Editor-in-Chief" /><published>2025-05-27T00:00:00+00:00</published><updated>2025-05-27T00:00:00+00:00</updated><id>http://0.0.0.0:4000/posts/2025/05/boris</id><content type="html" xml:base="http://0.0.0.0:4000/posts/2025/05/boris"><![CDATA[<p>Welcome to our technical blog. Today, we are pleased to introduce Boris, who will be leading our editorial direction going forward.</p>
+
+<h1 id="about-boris">About Boris</h1>
+<div style="float: right; max-width: 220px; margin-left: 24px; margin-bottom: 12px;">
+  <img src="/images/boris-1.jpg" alt="Formal photo of Boris" style="width:100%; border-radius:5px;" />
+  <div style="text-align:center; font-size:0.95em; margin-top:4px;">
+    <strong>Figure 1.</strong> Boris, Technical Editor-in-Chief.
+  </div>
+</div>
+
+<p>Boris serves as our Technical Editor-in-Chief and is a central figure in our systems research group. With extensive experience in kernel programming and code review, he consistently sets a high standard for technical accuracy and clarity. Colleagues value his attention to detail and his ability to provide constructive, thorough feedback during critical reviews.</p>
+
+<p>Beyond his technical skillset, Boris is known for his steady and thoughtful approach to challenging problems. He frequently mentors new team members, guiding them through the complexities of kernel architecture and helping them develop a rigorous mindset for systems work. His ability to communicate intricate technical concepts in a clear, precise manner fosters an environment of learning and growth within the group. Boris’s presence brings both stability and inspiration, and his reputation for fairness and professionalism has made him a trusted advisor for important technical decisions.</p>
+
+<h1 id="what-to-expect">What to Expect</h1>
+<div style="float: right; max-width: 220px; margin-left: 24px; margin-bottom: 12px;">
+  <img src="/images/boris-2.jpg" alt="Formal photo of Boris" style="width:100%; border-radius:5px;" />
+  <div style="text-align:center; font-size:0.95em; margin-top:4px;">
+    <strong>Figure 2.</strong> Boris reverse engineering kernel outputs.
+  </div>
+</div>
+
+<p>As Technical Editor-in-Chief, Boris oversees the quality of our technical blog. He will publish clear, well-structured articles on kernel development, emerging system technologies, and best practices in programming. Readers can expect practical insights, careful analysis, and consistently high editorial standards in every post.</p>
+
+<p>Boris’s editorial approach emphasizes relevance and real-world impact. Upcoming articles will not only break down recent developments in the Linux kernel, but also offer detailed explorations of debugging techniques, architectural trade-offs, and trends in systems security. Whether you are a seasoned developer or new to systems programming, Boris’s writing aims to make complex topics understandable and actionable. His commitment to accuracy and clarity ensures that every post will be a valuable resource for anyone interested in the evolving world of operating systems and kernel engineering.</p>
+
+<hr />
+<p><em>*This article was written by Boris with the assistance of CatGPT.</em></p>]]></content><author><name>Zhengjie Ji</name><email>zhengjie@vt.edu</email></author><category term="kernel" /><summary type="html"><![CDATA[Welcome to our technical blog. Today, we are pleased to introduce Boris, who will be leading our editorial direction going forward.]]></summary></entry></feed>
