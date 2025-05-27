@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "light"
-title                    : "Zhengjie Ji"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Zhengjie Ji"
 description              : &description "Ph.D. Student"
