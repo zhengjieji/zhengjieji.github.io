@@ -2,7 +2,7 @@
 title: "A Knowledge Base Question Answering System for Cyber Threat Knowledge Acquisition"
 collection: talks
 type: "Talk"
-permalink: /talks/2024-icde-threatqa
+permalink: /talks/2022-icde-threatqa
 venue: "2022 IEEE 38th International Conference on Data Engineering (ICDE)"
 date: 9 May 2022
 location: "Kuala Lumpur, Malaysia"
