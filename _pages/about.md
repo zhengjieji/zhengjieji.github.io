@@ -17,6 +17,7 @@ Education
 
 Professional Services
 ======
+- [2026] Artifact Evaluation Committee, NDSS
 - [2026] Artifact Evaluation Committee, FAST
 - [2025] Artifact Evaluation Committee, CCS
 - [2025] Artifact Evaluation Committee, USENIX
