@@ -4,7 +4,7 @@ collection: publications
 category: abstracts
 # permalink: /publication/2023-sp-threatkg
 excerpt: 'Ruicheng Miao, Zhengjie Ji, Lingxiang Wang, Ruide Zhang, Ying Zhang.'
-date: 2025-10-01
+date: 2025-09-01
 venue: 'USENIX Security Symposium'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 # paperurl: 'http://zhengjieji.github.io/files/2023-sp-threatkg.pdf'

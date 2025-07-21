@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2025-ebpf-bpfflow
 excerpt: 'Chinecherem Dimobi, Rahul Tiwari, Zhengjie Ji, Dan Williams.'
-date: 2025-10-01
+date: 2025-09-01
 venue: 'Workshop on eBPF and Kernel Extensions'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://zhengjieji.github.io/files/2025-ebpf-bpfflow.pdf'
