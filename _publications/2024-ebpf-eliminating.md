@@ -1,7 +1,7 @@
 ---
 title: "Eliminating eBPF Tracing Overhead on Untraced Processes"
 collection: publications
-category: conferences
+category: workshops
 permalink: /publication/2024-ebpf-eliminating
 excerpt: 'Milo Craun, Khizar Hussain, Uddhav Gautam, Zhengjie Ji, Tanuj Rao, Dan Williams.'
 date: 2024-08-04
