@@ -83,7 +83,7 @@ publication_category:
   workshops:
     title: 'Workshop Papers'
   abstracts:
-    title: 'Extended Abstracts'    
+    title: 'Extended Abstracts and Posters'    
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -267,13 +267,13 @@ defaults:
       share: false
       comments: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: false
+  # - scope:
+  #     path: ""
+  #     type: talks
+  #   values:
+  #     layout: talk
+  #     author_profile: true
+  #     share: false
 
 
 # Sass/SCSS

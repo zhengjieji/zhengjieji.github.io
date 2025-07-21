@@ -1,7 +1,7 @@
 ---
 title: "BPFflow - Preventing information leaks from eBPF"
 collection: publications
-category: conferences
+category: workshops
 permalink: /publication/2025-ebpf-bpfflow
 excerpt: 'Chinecherem Dimobi, Rahul Tiwari, Zhengjie Ji, Dan Williams.'
 date: 2025-09-01
