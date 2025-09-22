@@ -7,7 +7,7 @@ excerpt: 'Zhengjie Ji, Xiaoyuan Liu, Edward Choi, Sibo Ma, Xinyu Yang, Dawn Song
 date: 2023-10-01
 venue: 'IEEE Symposium on Security and Privacy'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://zhengjieji.github.io/files/2023-sp-threatkg.pdf'
+paperurl: 'http://zhengjieji.github.io/files/2024-sp-threatkg.pdf'
 # bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
